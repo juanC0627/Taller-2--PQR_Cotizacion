@@ -1,0 +1,21 @@
+Listado de Requerimientos
+Sistema de Cotización para Ventanas PQR:
+
+Estilos de Ventanas:
+
+O, XO, OXXO, OXO (otros estilos deben ser aprobados por la gerencia).
+Factores de Cálculo de Precio:
+
+Tamaño de la ventana: Ancho x alto.
+Tipo de aluminio (acabado): Pulido, Lacado Brillante, Lacado Mate, Anodizado.
+Tipo de vidrio: Transparente, Bronce, Azul (con opción de esmerilado).
+Cálculo del aluminio: Precio por cm lineal, tomando en cuenta esquinas y perfiles.
+Cálculo del vidrio: Precio por cm², considerando que el vidrio es 1.5 cm más pequeño por lado.
+Costos adicionales: Chapas, esquinas, descuento del 10% para cantidades mayores a 100.
+Características del Sistema:
+
+Registro de tipos de ventanas y materiales.
+Cálculo automático de costos basados en los parámetros ingresados.
+Aplicación de descuentos si corresponde.
+Soporte para consulta y modificación de cotizaciones.
+
